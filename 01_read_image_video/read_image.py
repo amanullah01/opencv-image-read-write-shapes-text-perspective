@@ -6,6 +6,6 @@ print("Version info.")
 print(sys.version_info)
 
 
-image = cv2.imread("./images/face.png")
+image = cv2.imread("../images/face.png")
 cv2.imshow("Read Image from Directory", image)
 cv2.waitKey(0)
