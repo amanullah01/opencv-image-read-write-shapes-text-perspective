@@ -11,4 +11,15 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository**  
    Open your terminal and run the following command to clone the project:
    ```bash
-   git clone git_url
+   [git clone ](https://github.com/amanullah01/opencv-image-read-write-shapes-text-perspective.git
+
+2. **Navigate to the project directory**
+  Run the following command to install all necessary packages:
+   ```pip install -r requirements.txt
+   
+   Replace project-directory with the actual name of the cloned directory.
+
+4. **Install the required packages**
+   ```cd project-directory
+   
+   Replace project-directory with the actual name of the cloned directory.
